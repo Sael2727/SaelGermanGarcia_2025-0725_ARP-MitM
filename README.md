@@ -136,7 +136,7 @@ SW1(config-if)# exit
 | Archivo | Descripción |
 |:-------:|-------------|
 | [`arp_mitm.py`](arp_mitm.py) | Script principal del ataque |
-| [`SaelGermanGarcia_2025-0725_MitM_ARP_Informe_P1.pdf`](SaelGermanGarcia_2025-0725_MitM_ARP_Informe_P1.pdf) | Documentación técnica completa |
+| [`SaelGermanGarcia_2025-0725_MitM_ARP_P1.pdf`](SaelGermanGarcia_2025-0725_MitM_ARP_P1.pdf) | Documentación técnica completa |
 
 ---
 
@@ -152,7 +152,7 @@ SW1(config-if)# exit
 
 ## 📎 Recursos
 
-📄 **Documentación Técnica:** [Ver Informe PDF](SaelGermanGarcia_2025-0725_MitM_ARP_Informe_P1.pdf)  
+📄 **Documentación Técnica:** [Ver Informe PDF](SaelGermanGarcia_2025-0725_MitM_ARP_P1.pdf)  
 ▶️ **Video Demostración:** [Ver en YouTube](https://youtube.com/playlist?list=PLV_dKVnYXf6dpmk3j8uXPHAZdbrkCQGAY)
 
 ---
